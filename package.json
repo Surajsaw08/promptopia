@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@tailwindcss/typography": "^0.5.15",
     "autoprefixer": "^10.4.20",
     "bcrypt": "^5.1.1",
     "mongodb": "^6.8.0",
